@@ -12,8 +12,8 @@ O programa simula o gerenciamento de memória utilizando a técnica de **NUR (N�
 
 ## Requisitos
 
-- Linguagem de Programação: **Python**
-- Dependências: Não há dependências externas. A execução requer um interpretador de Python
+- Linguagem de Programação: **C++**
+- Dependências: Não há dependências externas. A execução requer um interpretador de C++
 
 ---
 
