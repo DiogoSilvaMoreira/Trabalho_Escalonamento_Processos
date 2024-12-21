@@ -12,21 +12,21 @@ O programa simula o gerenciamento de memória utilizando a técnica de **NUR (N�
 
 ## Requisitos
 
-- Linguagem de Programação: **C++**
-- Dependências: Não há dependências externas. A execução requer um interpretador de C++
+- Linguagem de Programação: **Python**
+- Dependências: Não há dependências externas. A execução requer um interpretador de Python
 
 ---
 
 Tecnologias Utilizadas
 ---
-    Linguagem de Programação: C++
+    Linguagem de Programação: Python
     Estruturas de controle: Condicionais, loops.
     Entrada e Saída: Leitura e escrita de dados fornecidos pelo usuário. 
 ---
 
 ## Como Executar
 
-somente clone este repositorio e tenha um executavel em C++
+somente clone este repositorio e tenha um executavel em Python
 O programa pedirá ao usuário para definir a memória de tamanho variável e inserir os processos com tamanhos aleatórios ou definidos pelo usuário. O programa irá gerenciar a memória utilizando a técnica de First-Fit e atualizar os bits de referência (R) e modificação (M) a cada ciclo de clock.
 
 ---
